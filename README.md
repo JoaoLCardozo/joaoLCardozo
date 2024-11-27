@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e busco criar soluções inovadoras que impactem p
 - **Linguagens:** JavaScript, Python, Java, C#, Kotlin
 - **Frameworks:** React, Node.js
 - **Banco de Dados:** MySQL, MongoDB
-- **Ferramentas:** Git, Docker, Figma
+- **Ferramentas:** Git, Docker, Figma, Jenkins, Maven
 
 ---
 
