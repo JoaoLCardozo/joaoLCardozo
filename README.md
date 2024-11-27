@@ -11,12 +11,6 @@ Sou apaixonado por tecnologia e busco criar soluções inovadoras que impactem p
 
 ---
 
-### 🌟 Projetos em Destaque:
-- [**Meu Portfólio**](https://github.com/joaoLCardozo/portfolio) – Um site para exibir meus trabalhos e habilidades.
-- [**Gerenciador de Tarefas**](https://github.com/joaoLCardozo/task-manager) – Uma aplicação para organização de tarefas.
-
----
-
 ### 📊 Minhas Estatísticas no GitHub:
 ![joaoLCardozo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoLCardozo&show_icons=true&theme=radical)
 
